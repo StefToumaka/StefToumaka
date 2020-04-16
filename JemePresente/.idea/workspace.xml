@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bf96f56-456c-47bd-93e5-7c5f042ead02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aHbkwYF2ckDvFM0ak1foDh26VZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf96f56-456c-47bd-93e5-7c5f042ead02" name="Default Changelist" comment="" />
+      <created>1586395612508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586395612508</updated>
+      <workItem from="1586395614736" duration="636000" />
+      <workItem from="1586816017818" duration="63000" />
+      <workItem from="1586822631826" duration="23599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="0" key="SettingsEditor" timestamp="1586925953472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586925953472" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586816019130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586816019130" />
+    <state x="661" y="128" key="run.anything.popup" timestamp="1586924980778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="661" y="128" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586924980778" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1586997409559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586997409559" />
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586901604106" />
+  </component>
+</project>
