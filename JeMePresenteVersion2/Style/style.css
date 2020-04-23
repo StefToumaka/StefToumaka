@@ -1,0 +1,18 @@
+
+h1,h2 {
+color:red;
+}
+h1  {
+color: red;
+font-sizw: 30 px;
+}
+body
+{
+    width: 900px; /*Largeur du site*/
+     background-image: url("../Img/fond.jpg") ;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat ;
+     background-color:aquamarine ;
+    /*margin: auto;  pour centrer le site en largeur */
+}
+{}
